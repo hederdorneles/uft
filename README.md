@@ -1,2 +1,0 @@
-# uft
-trabalhos graduação
