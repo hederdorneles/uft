@@ -517,11 +517,10 @@ object FrmPrinc: TFrmPrinc
     Top = 40
     Width = 253
     Height = 30
-    Visible = False
     TabOrder = 3
   end
   object pnlJustica: TPanel
-    Left = 498
+    Left = 506
     Top = 10
     Width = 321
     Height = 80
